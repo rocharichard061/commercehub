@@ -1,4 +1,4 @@
-package com.commercehub.commercehub;
+package com.commercehub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

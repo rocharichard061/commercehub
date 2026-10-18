@@ -1,4 +1,4 @@
-package com.commercehub.commercehub;
+package com.commercehub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
